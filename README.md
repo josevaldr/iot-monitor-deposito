@@ -14,7 +14,7 @@ Projeto acadêmico de IoT para monitorar temperatura e umidade em um depósito. 
 
 - ESP32
 - Sensor DHT22
-- LED e buzzer
+- LED 
 - MQTT
 - ThingSpeak
 - Simulação no Wokwi
